@@ -39,9 +39,10 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ## Client Work
 
-- **OR Group** — xpLORe Lifestyle Super App · EV Station PluZ Root Planner
-- **PTT Group** — AXISTANT Executive AI Assistant
-- **ttb · PeerPower** — Fintech UX · Payment flow design
+- **PTT OR** — xpLORe Lifestyle Super App · EV Station PluZ Root Planner
+- **PTT Group** — Executive AI Assistant
+- **ttb** - Bank Transformation System
+- **PeerPower** — Fintech UX · Payment flow design
 - **AXA (Emma by AXA)** — Insurance product design
 
 ---
