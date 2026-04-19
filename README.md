@@ -91,12 +91,25 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=flukelaster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=480" alt="Fluke's GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukelaster&layout=compact&theme=tokyonight&hide_border=true&card_width=480&langs_count=8" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=flukelaster&theme=tokyonight&hide_border=true&card_width=980" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-![Fluke's GitHub stats](https://github-readme-stats.vercel.app/api?username=flukelaster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flukelaster&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=flukelaster&theme=tokyonight&hide_border=true)
+[![Fluke's Trophies](https://github-profile-trophy.vercel.app/?username=flukelaster&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/flukelaster)
 
 </div>
 
