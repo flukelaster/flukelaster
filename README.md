@@ -20,7 +20,7 @@
 
 ## About
 
-9+ years in UX/UI design, currently at the intersection of **product design** and **AI engineering**. I work at Orbit Digital Co., Ltd. as a Product Designer, but the real work happens at the edges — where design systems meet multi-agent pipelines, where prompts are a design medium, and where the line between designer and builder blurs.
+10 years in UX/UI design, currently at the intersection of **product design** and **AI engineering**. I work at Orbit Digital Co., Ltd. as a Product Designer, but the real work happens at the edges — where design systems meet multi-agent pipelines, where prompts are a design medium, and where the line between designer and builder blurs.
 
 I care about the unsexy parts: edge cases, system constraints, failure modes, and what happens when real users touch AI products.
 
@@ -50,7 +50,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -89,7 +89,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -115,7 +115,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ---
 
-## ✍️ Writing
+## Writing
 
 I write about building AI products, design systems, and the experience of being a designer who codes — mostly in Thai, occasionally in English.
 
@@ -123,7 +123,7 @@ I write about building AI products, design systems, and the experience of being 
 
 ---
 
-## 🔬 Currently Exploring
+## Currently Exploring
 
 - `Claude Code` + MCP tooling for agentic design workflows
 - Figma MCP integration and the `use_figma` Plugin API
