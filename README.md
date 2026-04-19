@@ -28,7 +28,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ---
 
-## 🧭 Areas of Work
+## Areas of Work
 
 | Domain | Focus |
 |--------|-------|
@@ -40,7 +40,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ---
 
-## 🏢 Client Work
+## Client Work
 
 - **PTT OR** — xpLORe Lifestyle Super App · EV Station PluZ Root Planner
 - **PTT Group** — Executive AI Assistant
