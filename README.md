@@ -1,6 +1,6 @@
 <div align="center">
 
-# ฟลุค · Fluke Thammasat
+Fluke Thammasat
 
 **Product Designer · AI Builder · Vibe Coder**
 
@@ -22,17 +22,6 @@
 I care about the unsexy parts: edge cases, system constraints, failure modes, and what happens when real users touch AI products.
 
 > *"Design is how it works."* — The other Steve.
-
----
-
-## What I'm Building
-
-### 🔮 Syndicate
-> Multi-agent AI pipeline that converts Figma design URLs into structured BA Specifications, SA Documents, and Test Cases — deployed and running in production.
-
-- **Stack:** Claude API · Python · Railway · Multi-agent orchestration
-- **Agents:** Figma Parser · BA Writer · SA Architect · Test Case Generator · Cross-check Validator
-- **Live at:** [syndicate-workflow.com](https://syndicate-workflow.com)
 
 ---
 
