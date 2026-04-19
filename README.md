@@ -124,7 +124,7 @@ I write about building AI products, design systems, and the experience of being 
 ## Currently Exploring
 
 - `Claude Code` + MCP tooling for agentic design workflows
-- Figma MCP integration and the `use_figma` Plugin API
+- Figma MCP integration and Plugin API
 - Local LLM inference with Ollama (Gemma 4)
 - Design token architecture at scale
 
