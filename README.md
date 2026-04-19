@@ -42,7 +42,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 ## Client Work
 
-- **PTT OR** — xpLORe Lifestyle Super App · EV Station PluZ Root Planner
+- **PTT OR** — xpLORe Lifestyle Super App
 - **PTT Group** — Executive AI Assistant
 - **ttb** — Bank Transformation System
 - **PeerPower** — Fintech UX · Payment flow design
