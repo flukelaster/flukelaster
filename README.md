@@ -109,8 +109,6 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 
 <div align="center">
 
-[![Fluke's Trophies](https://github-profile-trophy.vercel.app/?username=flukelaster&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/flukelaster)
-
 </div>
 
 ---
