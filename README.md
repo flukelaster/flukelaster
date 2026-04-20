@@ -136,6 +136,6 @@ I write about building AI products, design systems, and the experience of being 
 
 **Based in Bangkok 🇹🇭 · Open to collaboration**
 
-*Product design · AI consulting · Side projects*
+*Product design · AI Designer · Side projects*
 
 </div>
