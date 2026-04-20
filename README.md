@@ -1,5 +1,7 @@
 <div align="center">
 
+![Fluke Thammasat — Product Designer · AI Builder · Vibe Coder](assets/og.png)
+
 # Fluke Thammasat
 
 **Product Designer · AI Builder · Vibe Coder**
