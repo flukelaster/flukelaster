@@ -1,6 +1,6 @@
 <div align="center">
 
-![Fluke Thammasat — Product Designer · AI Builder · Vibe Coder](assets/og.png)
+![Fluke Thammasat — Product Designer · AI Builder · Context Engineer](assets/og.png)
 
 # Fluke Thammasat
 
@@ -37,7 +37,7 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 | 🎨 **Product Design** | UX/UI for Fintech, Insurance, Energy, Enterprise |
 | 🤖 **AI Product Development** | Multi-agent systems, prompt engineering, LLM integration |
 | 🧩 **Design Systems** | Token architecture, Figma plugin development, component libraries |
-| ⚡ **Vibe Coding** | Full-stack prototyping with AI assistance (Next.js, Python, Railway) |
+| ⚡ **Context Engineer** | Full-stack prototyping with AI assistance (Next.js, Python, Railway) |
 | 📋 **Business Analysis** | BA Spec writing, user story mapping, Agile/Scrum delivery |
 
 ---
