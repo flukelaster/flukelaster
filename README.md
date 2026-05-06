@@ -4,7 +4,7 @@
 
 # Fluke Thammasat
 
-**Product Designer · AI Builder · Vibe Coder**
+**Product Designer · AI Builder · Context Engineer**
 
 *Designing systems that think. Building products that matter.*
 
@@ -22,7 +22,7 @@
 
 ## About
 
-10 years in UX/UI design, currently at the intersection of **product design** and **AI engineering**. I work at Orbit Digital Co., Ltd. as a Product Designer, but the real work happens at the edges — where design systems meet multi-agent pipelines, where prompts are a design medium, and where the line between designer and builder blurs.
+10 years in UX/UI design, currently at the intersection of **product design** and **Context engineering**. I work at Orbit Digital Co., Ltd. as a Product Designer, but the real work happens at the edges — where design systems meet multi-agent pipelines, where prompts are a design medium, and where the line between designer and builder blurs.
 
 I care about the unsexy parts: edge cases, system constraints, failure modes, and what happens when real users touch AI products.
 
