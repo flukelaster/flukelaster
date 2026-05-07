@@ -96,10 +96,10 @@ I care about the unsexy parts: edge cases, system constraints, failure modes, an
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=flukelaster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=480" alt="Fluke's GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flukelaster&theme=tokyonight" alt="Fluke's GitHub stats" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukelaster&layout=compact&theme=tokyonight&hide_border=true&card_width=480&langs_count=8" alt="Top Langs" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flukelaster&theme=tokyonight" alt="Top Langs" />
     </td>
   </tr>
   <tr>
