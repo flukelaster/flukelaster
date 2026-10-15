@@ -3,7 +3,7 @@
   <img src="assets/header-light.png" alt="Fluke — Agentic Experience Designer, Bangkok" width="100%">
 </picture>
 
-Agentic Experience Designer in Bangkok. I work in Thai and English.
+Agentic Experience Designer in Bangkok.
 
 ## About
 
