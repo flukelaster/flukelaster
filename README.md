@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img src="assets/header-light.png" alt="Fluke — Agentic Experience Designer, Bangkok" width="100%">
-</picture>
+<img src="assets/header.png" alt="Fluke — Agentic Experience Designer, Bangkok" width="100%">
 
 Agentic Experience Designer in Bangkok.
 
@@ -11,16 +8,13 @@ I design LLM-powered products and the multi-agent systems behind them, including
 
 ## Selected work
 
-Public repositories. Case studies with screens and context are on the [portfolio](https://fluke-thammasat.dev).
+Public repositories. SIAHRA is live at [siahra-radar.co](https://siahra-radar.co). Case studies with screens and context are on the [portfolio](https://fluke-thammasat.dev).
 
-| | Project | What it does |
-|:--|:--|:--|
-| `01` | [**SIAHRA**](https://github.com/flukelaster/SIAHRA) | Hazard monitoring for Thailand. Flood, rainfall, dam and earthquake data on a 3D provincial terrain. [siahra-radar.co](https://siahra-radar.co) |
-| `02` | [**ai-trading-agent**](https://github.com/flukelaster/ai-trading-agent) | Trading agent for multiple symbols. Claude, FastAPI, Next.js and MetaTrader 5. |
-| `03` | [**claude-usage**](https://github.com/flukelaster/claude-usage) | Local dashboard for Claude Code token usage and estimated API cost. |
-| `04` | [**claude-design-x-figma**](https://github.com/flukelaster/claude-design-x-figma) | Figma plugin that rebuilds a live URL as native frames, with auto-layout, fills, strokes and type. |
-| `05` | [**LLM-Usage-Widget**](https://github.com/flukelaster/LLM-Usage-Widget) | Menu-bar and tray app that shows usage limits for Claude, Codex and GitHub Copilot. macOS and Windows. |
-| `06` | [**agentwatch**](https://github.com/flukelaster/agentwatch) | Local monitor for AI coding agents on a Mac: Claude Code, Codex, Gemini CLI, Antigravity CLI and Cursor. |
+<a href="https://github.com/flukelaster/SIAHRA"><img src="assets/work-01.png" alt="01 SIAHRA. Hazard monitoring for Thailand. Flood, rainfall, dam and earthquake data on a 3D provincial terrain." width="50%"></a><a href="https://github.com/flukelaster/ai-trading-agent"><img src="assets/work-02.png" alt="02 ai-trading-agent. Trading agent for multiple symbols. Claude, FastAPI, Next.js and MetaTrader 5." width="50%"></a>
+
+<a href="https://github.com/flukelaster/claude-usage"><img src="assets/work-03.png" alt="03 claude-usage. Local dashboard for Claude Code token usage and estimated API cost." width="50%"></a><a href="https://github.com/flukelaster/claude-design-x-figma"><img src="assets/work-04.png" alt="04 claude-design-x-figma. Figma plugin that rebuilds a live URL as native frames: auto-layout, fills, strokes and type." width="50%"></a>
+
+<a href="https://github.com/flukelaster/LLM-Usage-Widget"><img src="assets/work-05.png" alt="05 LLM-Usage-Widget. Menu-bar and tray app showing usage limits for Claude, Codex and GitHub Copilot." width="50%"></a><a href="https://github.com/flukelaster/agentwatch"><img src="assets/work-06.png" alt="06 agentwatch. Local monitor for AI coding agents on a Mac: Claude Code, Codex, Gemini CLI, Antigravity CLI, Cursor." width="50%"></a>
 
 ## Experience
 
