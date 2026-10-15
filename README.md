@@ -3,11 +3,11 @@
   <img src="assets/header-light.png" alt="Fluke — Agentic Experience Designer, Bangkok" width="100%">
 </picture>
 
-Lead Experience Designer at Orbit Digital, Bangkok. I work in Thai and English.
+Agentic Experience Designer in Bangkok. I work in Thai and English.
 
 ## About
 
-Ten years of UX/UI in fintech, insurance and banking: e-KYC, loyalty programs, policy management, and a branch system at ttb that replaced one 20 years old. Since 2025 I design LLM-based products at Orbit Digital. I write the BA/SA specs, build the interface and deploy it myself, so the design is what ships.
+I design LLM-powered products and the multi-agent systems behind them, including the prompts and context they run on. Ten years of UX/UI in fintech, insurance and banking came first: e-KYC, loyalty programs, and a branch system at ttb that replaced one 20 years old. I build what I design, from the BA/SA spec to a Next.js front end on PostgreSQL, shipped through CI/CD.
 
 ## Selected work
 
