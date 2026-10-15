@@ -7,7 +7,7 @@ Agentic Experience Designer in Bangkok. I work in Thai and English.
 
 ## About
 
-I design LLM-powered products and the multi-agent systems behind them, including the prompts and context they run on. Ten years of UX/UI in fintech, insurance and banking came first: e-KYC, loyalty programs, and a branch system at ttb that replaced one 20 years old. I build what I design, from the BA/SA spec to a Next.js front end on PostgreSQL, shipped through CI/CD.
+I design LLM-powered products and the multi-agent systems behind them, including the prompts and context they run on. Ten years of UX/UI in fintech, insurance and banking came first: e-KYC, onboarding, loyalty programs and core banking. I build what I design, from the BA/SA spec to a Next.js front end on PostgreSQL, shipped through CI/CD.
 
 ## Selected work
 
@@ -27,7 +27,6 @@ Public repositories. Case studies with screens and context are on the [portfolio
 | | Company | Role |
 |:--|:--|:--|
 | `2025 –` | Orbit Digital | Lead Experience Designer (from Mar 2026), Senior Experience Designer |
-| `2025` | ttb bank | UX/UI Designer, Senior Associate. Branch transformation |
 | `2022 – 25` | Bluebik Group | Senior UX/UI Designer. Design system, onboarding, e-KYC, loyalty |
 | `2021 – 22` | Krungthai-AXA Life | UX/UI Designer. Insurance policy app, TeleHealth feature |
 | `2019 – 20` | PeerPower | UX/UI Designer. Bond investment web and mobile apps |
