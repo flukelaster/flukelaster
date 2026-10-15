@@ -1,141 +1,39 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img src="assets/header-light.png" alt="Fluke — Agentic Experience Designer, Bangkok" width="100%">
+</picture>
 
-![Fluke Thammasat — Product Designer · AI Builder · Context Engineer](assets/og.png)
-
-# Fluke Thammasat
-
-**Product Designer · AI Builder · Context Engineer**
-
-*Designing systems that think. Building products that matter.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://fluke-thammasat.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thammasat-pra)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@flukelaster)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thammasat.pra@email.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=flukelaster&style=flat-square&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/flukelaster?style=flat-square&logo=github&color=181717)](https://github.com/flukelaster)
-
-</div>
-
----
+Lead Experience Designer at Orbit Digital, Bangkok. I work in Thai and English.
 
 ## About
 
-10 years in UX/UI design, currently at the intersection of **product design** and **Context engineering**. I work at Orbit Digital Co., Ltd. as a Product Designer, but the real work happens at the edges — where design systems meet multi-agent pipelines, where prompts are a design medium, and where the line between designer and builder blurs.
+Ten years of UX/UI in fintech, insurance and banking: e-KYC, loyalty programs, policy management, and a branch system at ttb that replaced one 20 years old. Since 2025 I design LLM-based products at Orbit Digital. I write the BA/SA specs, build the interface and deploy it myself, so the design is what ships.
 
-I care about the unsexy parts: edge cases, system constraints, failure modes, and what happens when real users touch AI products.
+## Selected work
 
-> *"Design is how it works."* — The other Steve.
+Public repositories. Case studies with screens and context are on the [portfolio](https://fluke-thammasat.dev).
 
----
+| | Project | What it does |
+|:--|:--|:--|
+| `01` | [**SIAHRA**](https://github.com/flukelaster/SIAHRA) | Hazard monitoring for Thailand. Flood, rainfall, dam and earthquake data on a 3D provincial terrain. [siahra-radar.co](https://siahra-radar.co) |
+| `02` | [**ai-trading-agent**](https://github.com/flukelaster/ai-trading-agent) | Trading agent for multiple symbols. Claude, FastAPI, Next.js and MetaTrader 5. |
+| `03` | [**claude-usage**](https://github.com/flukelaster/claude-usage) | Local dashboard for Claude Code token usage and estimated API cost. |
+| `04` | [**claude-design-x-figma**](https://github.com/flukelaster/claude-design-x-figma) | Figma plugin that rebuilds a live URL as native frames, with auto-layout, fills, strokes and type. |
+| `05` | [**LLM-Usage-Widget**](https://github.com/flukelaster/LLM-Usage-Widget) | Menu-bar and tray app that shows usage limits for Claude, Codex and GitHub Copilot. macOS and Windows. |
+| `06` | [**agentwatch**](https://github.com/flukelaster/agentwatch) | Local monitor for AI coding agents on a Mac: Claude Code, Codex, Gemini CLI, Antigravity CLI and Cursor. |
 
-## Areas of Work
+## Experience
 
-| Domain | Focus |
-|--------|-------|
-| 🎨 **Product Design** | UX/UI for Fintech, Insurance, Energy, Enterprise |
-| 🤖 **AI Product Development** | Multi-agent systems, prompt engineering, LLM integration |
-| 🧩 **Design Systems** | Token architecture, Figma plugin development, component libraries |
-| ⚡ **Context Engineer** | Full-stack prototyping with AI assistance (Next.js, Python, Railway) |
-| 📋 **Business Analysis** | BA Spec writing, user story mapping, Agile/Scrum delivery |
+| | Company | Role |
+|:--|:--|:--|
+| `2025 –` | Orbit Digital | Lead Experience Designer (from Mar 2026), Senior Experience Designer |
+| `2025` | ttb bank | UX/UI Designer, Senior Associate. Branch transformation |
+| `2022 – 25` | Bluebik Group | Senior UX/UI Designer. Design system, onboarding, e-KYC, loyalty |
+| `2021 – 22` | Krungthai-AXA Life | UX/UI Designer. Emma by AXA, TeleHealth feature |
+| `2019 – 20` | PeerPower | UX/UI Designer. Bond investment web and mobile apps |
 
----
+Earlier: Wewasanad, Maxile and WI Commerce International.
 
-## Client Work
+## Contact
 
-- **PTT OR** — xpLORe Lifestyle Super App
-- **PTT Group** — Executive AI Assistant
-- **ttb** — Bank Transformation System
-- **PeerPower** — Fintech UX · Payment flow design
-- **AXA (Emma by AXA)** — Insurance product design
-
----
-
-## Tech Stack
-
-#### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-FF7262?style=for-the-badge&logo=figma&logoColor=white)
-![Protopie](https://img.shields.io/badge/Protopie-673AB8?style=for-the-badge&logo=protopie&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038)
-
-#### AI / LLM
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-#### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flukelaster&theme=tokyonight" alt="Fluke's GitHub stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flukelaster&theme=tokyonight" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=flukelaster&theme=tokyonight&hide_border=true&card_width=980" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-</div>
-
----
-
-## Writing
-
-I write about building AI products, design systems, and the experience of being a designer who codes — mostly in Thai, occasionally in English.
-
-📝 [Medium — @flukelaster](https://medium.com/@flukelaster)
-
----
-
-## Currently Exploring
-
-- `Claude Code` + MCP tooling for agentic design workflows
-- Figma MCP integration and Plugin API
-- Local LLM inference with Ollama (Gemma 4)
-- Design token architecture at scale
-
----
-
-<div align="center">
-
-**Based in Bangkok 🇹🇭 · Open to collaboration**
-
-*Product design · AI Designer · Side projects*
-
-</div>
+[Portfolio](https://fluke-thammasat.dev) · [LinkedIn](https://www.linkedin.com/in/thammasat-pra/) · [Email](mailto:thammasat.pra@gmail.com) · [Medium](https://medium.com/@flukelaster) (mostly Thai)
