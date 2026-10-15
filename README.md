@@ -29,7 +29,7 @@ Public repositories. Case studies with screens and context are on the [portfolio
 | `2025 –` | Orbit Digital | Lead Experience Designer (from Mar 2026), Senior Experience Designer |
 | `2025` | ttb bank | UX/UI Designer, Senior Associate. Branch transformation |
 | `2022 – 25` | Bluebik Group | Senior UX/UI Designer. Design system, onboarding, e-KYC, loyalty |
-| `2021 – 22` | Krungthai-AXA Life | UX/UI Designer. Emma by AXA, TeleHealth feature |
+| `2021 – 22` | Krungthai-AXA Life | UX/UI Designer. Insurance policy app, TeleHealth feature |
 | `2019 – 20` | PeerPower | UX/UI Designer. Bond investment web and mobile apps |
 
 Earlier: Wewasanad, Maxile and WI Commerce International.
